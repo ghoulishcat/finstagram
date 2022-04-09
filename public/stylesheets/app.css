@@ -4,6 +4,8 @@ header {
 }
 body {
     background-color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+
 }
 main {
     background-color: white;
@@ -13,9 +15,8 @@ main {
 .finstagram-post {
     margin-bottom: 48px;
 }
-
-.finstagram-post {
-    font-family: 'Open Sans', sans-serif;
+.finstagram-post .user-info img{
+    border-radius: 50%;
 }
 
 a.photo{
